@@ -9,7 +9,7 @@ Prerequisites
 
 Installation
 
-    git clone [https://github.com/svarnakothari33/ai-summarizer](https://github.com/svarnakothari33/ai-summarizer.git)
+    git clone https://github.com/svarnakothari33/ai-summarizer.git
     cd ai-summarizer
     python -m venv venv
     source venv/bin/activate
