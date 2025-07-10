@@ -43,7 +43,7 @@ def extract_text_from_file(file_path):
         return None
 
 def send_prompt(content):
-    url = "http://127.0.0.1:11434/api/chat"
+    url = "http://localhost:11434/api/chat"
 
     data = {
         "model": "llama3.2:latest",
