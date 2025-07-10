@@ -18,7 +18,11 @@ pip install -r requirements.txt
 
 How It Works
 
-python summarizer.py -t <path-to-your-file>
+    python summarizer.py -t <path-to-your-file> 
+    
+    For example 
+    python summarizer.py -t sample.txt
 
-For example
-python summarizer.py -t sample.txt
+Note
+
+    ollama model should be running
